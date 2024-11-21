@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **gavinkoli2000@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -14,4 +14,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gavinkoli&show_icons=true&locale=en&layout=compact" alt="gavinkoli" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gavinkoli&show_icons=true&locale=en" alt="gavinkoli" /></p>
